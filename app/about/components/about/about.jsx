@@ -11,7 +11,7 @@ function Title() {
 		<div className="mt-10 flex flex-col justify-start items-center w-full pl-10 md:pl-32">
 			<div className="flex justify-center items-center flex-col my-5 self-start ">
 				<Hr variant="long"></Hr>
-				<h1 className="text-3xl font-bold mt-3">Who Am I?</h1>
+				<h1 className="text-3xl font-bold mt-3">Siapakah Saya?</h1>
 			</div>
 		</div>
 	);
@@ -108,41 +108,35 @@ export default function About() {
 						type: "spring",
 					}}>
 					<h2 className="text-2xl font-bold tracking-wider mb-3">
-						Alvalen Shafelbilyunazra
+						Sigit Ardis
 					</h2>
 					<p className="text-gray-600 text-justify title text-lg">
-						Hey there, I&rsquo;m Alvalen Shafelbilyunazra, a
+						Halo, s&rsquo;aya Sigit Ardis, 
 						<span className="text-black font-medium">
 							{" "}
-							tech enthusiast
+							seorang penggemar teknologi
 						</span>{" "}
-						and
+						dan
 						<span className="text-black font-medium">
 							{" "}
-							aspiring Web Developer.
+							calon pengembang web.
 						</span>{" "}
-						Originating from Pasuruan, East Java, Indonesia,
-						I&rsquo;m currently embarking on a fascinating journey
-						at{" "}
+						Berasal dari Bandung, Jawa Barat, Indonesia,
+						s&rsquo;aat ini saya masih bersekolah
+						di sma{" "}
 						<span className="text-black font-medium">
-							Universitas Negeri Malang,
+							Al Ihsan Boarding School,
 						</span>{" "}
-						where I&rsquo;m pursuing my degree in{" "}
+						sambil&rsquo;terus mendalami{" "}
 						<span className="text-black font-medium">
-							Informatics Engineering.
+							dunia teknologi.
 						</span>{" "}
-						My passion for technology and coding knows no bounds.
-						Beyond the world of coding, I find myself deeply
-						immersed in the realms of design, Game Development, and
-						the fascinating universe of AI. I believe that in
-						today&rsquo;s fast-paced digital landscape, being a
+						Minat saya terhadap teknologi dan pemrograman tidak terbatas. Selain keamanan siber, saya juga tertarik pada pengembangan web, desain, dan&rsquo;kecerdasan buatan AI.
 						<span className="text-black font-medium">
 							{" "}
-							lifelong learner
+							saya percaya
 						</span>{" "}
-						is not just a choice, but a necessity. Let&rsquo;s
-						connect and explore this ever-evolving world of tech
-						together!
+						bahwa di era digital yang berkembang pesat ini, menjadi pembelajar seumur hidup bukan hanya pilihan, tetapi sebuah keharusan. Mari terhubung dan jelajahi dunia teknologi &rsquo;bersama
 					</p>
 					<Card />
 				</motion.div>

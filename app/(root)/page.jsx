@@ -64,7 +64,7 @@ const MyPage = () => {
 											delay: 0.2,
 											type: "spring",
 										}}>
-										Alvalen Shafel
+										Sigit Ardis
 									</motion.h3>
 									<motion.h1
 										className="text-black text-5xl md:text-6xl lg:text-7xl 2xl:text-8xl font-bold my-2 md:my-5"
@@ -84,12 +84,7 @@ const MyPage = () => {
 											delay: 0.4,
 											type: "spring",
 										}}>
-										A junior fullstack developer who
-										currently focused on Web Development.
-										Other than that, I also interested in
-										UX/UI Design, Mobile and AI Development.
-										I love to learn new things and always
-										open to new opportunities.
+											Saya seorang pengembang yang suka membangun website dan aplikasi. Masih terus belajar dan mengembangkan skill di bidang teknologi, desain, serta kecerdasan buatan. Jika ada proyek atau ide menarik, mari berdiskusi!
 									</motion.p>
 									<motion.div
 										className="buttons flex flex-row justify-center items-center space-x-4 mt-10"
@@ -184,8 +179,7 @@ const MyPage = () => {
 											delay: 0.2,
 											type: "spring",
 										}}>
-										A brief introduction about me and my
-										interest.
+										perkenalan singkat tentang saya dan minat saya
 									</motion.p>
 									<motion.div
 										initial={{ y: 40, opacity: 0 }}
@@ -339,14 +333,14 @@ const MyPage = () => {
 											delay: 0.3,
 											type: "spring",
 										}}>
-										<a href="mailto:Alvalen.shafel04@gmail.com?subject=Hello&body=Hello Alvalens,">
-											alvalen.shafel04@gmail.com
+										<a href="mailto:sigitardisadmaja960@gmail.com?subject=Hello&body=Hai sigit,">
+											sigitardisadmaja960@gmail.com
 										</a>
 									</motion.p>
 									{/* icons */}
 									<div className="flex justify-center items-center space-x-4">
 										<motion.a
-											href="mailto:Alvalen.shafel04@gmail.com?subject=Hello&body=Hello Alvalens,"
+											href="mailto:sigitardisadmaja960@gmail.com?subject=Hello&body=Hai sigit,"
 											className="flex justify-center items-center bg-gray-700 w-14 h-14 rounded-full text-gray-100 hover:bg-gray-400 transition-all ease-in-out duration-300"
 											initial={{ y: 40, opacity: 0 }}
 											whileInView={{ y: 0, opacity: 1 }}
@@ -377,7 +371,7 @@ const MyPage = () => {
 											/>
 										</motion.a>
 										<motion.a
-											href="https://www.instagram.com/alvalens_/"
+											href="https://www.instagram.com/sigitardis_/"
 											target="_blank"
 											rel="noopener noreferrer"
 											className="flex justify-center items-center bg-gray-700 w-14 h-14 rounded-full text-gray-100 hover:bg-gray-400 transition-all ease-in-out duration-300"
